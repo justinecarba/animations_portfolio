@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 xpoints = np.array([80.0, 40.0, 20.0, 10.0])
 my_color = ["#5128e7", "#2998e7", "r", "g"]
-my_labels = ["PYTHON", "CSS", "JAVACRIPT", "C"]
+my_labels = ["PYTHON", "CSS", "JAVACRIPT", "C#"]
 my_explode = [0.1, 0, 0, 0]
 
 
